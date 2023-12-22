@@ -7,12 +7,11 @@
 Проект был взят с сайт Hugging Face  http://huggingface.co
 <hr> 
 
-Cписок необходимых пакетов находится в файле **requirements.txt**
-
+Список необходимых библиотек использующихся в проекте находится в файле **requirements.txt**
 <hr>
-<p>Разработанное с помощью библиотеки FastAPI, API для приложения  машинного обучения находится в  main.py</p>
-<hr> 
 
-Ниже представлен print screen файла  **main.py**
+Разработанное с помощью библиотеки FastAPI, API для приложения  машинного обучения находится в  **main.py**
+<hr> 
+*Ниже представлен print screen файла  main.py*
 
 <img src="https://github.com/VoroninMaxim/project_sentiment_text_3/blob/main/Bye.jpg" height="300"/>
