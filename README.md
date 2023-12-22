@@ -8,8 +8,8 @@
 
 [Проект был взят с сайт Hugging Face](http://huggingface.co)
 
-<h3 align="left">Cписок необходимых пакетов в файле находится в файле requirements.txt</h3>
+<h3 align="left">Cписок необходимых пакетов находится в файле requirements.txt</h3>
 <hr>
 <p>Разработанное с помощью библиотеки FastAPI, API для приложения  машинного обучения находится в  main.py</p>
 <hr> 
-<img src="https://github.com/VoroninMaxim/project_sentiment_text_3/blob/main/Bye.jpg" height="200"/></h1>
+<img src="https://github.com/VoroninMaxim/project_sentiment_text_3/blob/main/Bye.jpg" height="300"/></h1>
