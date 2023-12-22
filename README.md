@@ -10,8 +10,9 @@
 Список необходимых библиотек использующихся в проекте находится в файле **requirements.txt**
 <hr>
 
-Разработанное с помощью библиотеки FastAPI, API для приложения  машинного обучения находится в  **main.py**
-<hr> 
-*Ниже представлен print screen файла  main.py*
+Разработанное с помощью библиотеки FastAPI, **API** для приложения  машинного обучения находится в  **main.py**
+<hr>
+
+_Ниже представлен print screen файла  main.py_
 
 <img src="https://github.com/VoroninMaxim/project_sentiment_text_3/blob/main/Bye.jpg" height="300"/>
